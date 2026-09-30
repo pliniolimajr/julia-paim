@@ -1,0 +1,1 @@
+<template><footer class="casa-footer"><span>Júlia Paim · Psicóloga Infantojuvenil · CRP 03/12345</span><a href="https://www.apertef1.com.br" target="_blank" rel="noopener noreferrer">Desenvolvido por Aperte F1 ↗</a></footer></template>
